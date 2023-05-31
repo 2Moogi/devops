@@ -1,0 +1,7 @@
+/goorm.manifest
+/db.sqlite3
+/nohup.out
+/account/__pycache__/*
+/PLotusTODO/__pycache__/*
+/uploads/
+/media/uploads/*
